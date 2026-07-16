@@ -1,3 +1,3 @@
 # DSA-LAB
-first git 
+first git.
 Author Jaber
