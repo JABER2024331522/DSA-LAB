@@ -24,8 +24,8 @@ The repository includes implementations of:
 * Standard Template Library (STL)
 
 ## 📂 Repository Structure
+```text
 DSA-LAB/
-│
 ├── array/
 ├── recursion/
 ├── BST/
